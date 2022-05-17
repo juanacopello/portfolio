@@ -1,2 +1,2 @@
-# portfolio
-Brief portofolio website
+# Portfolio
+Brief portofolio website with some of my work.
