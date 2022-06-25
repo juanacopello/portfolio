@@ -1,9 +1,11 @@
-@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css');
+/* @import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css'); */
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;500;600&display=swap');
 
 
 body{
     font-family: 'Hind', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .container {
     margin: 0;
@@ -131,6 +133,19 @@ button a:hover{
 footer{
     background-color: black;
     height: 10rem;
+}
+
+.footer_description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1.5rem;
+}
+.footer_description p {
+    color: #f7f7f7;
+    text-transform: uppercase;
+    font-size: .8rem;
+    letter-spacing: 0.02rem;
 }
 
 @import url('_tablet.css');
