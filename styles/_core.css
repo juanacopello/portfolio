@@ -22,12 +22,14 @@ body{
     font-weight: 300;
     line-height: .7;
     letter-spacing: 0.03rem;
+    margin-bottom: .3rem;
 }
 
 .bio h2 {
     font-size: 20px;
     font-weight: 500;
     padding-bottom: 1.5rem;
+    margin: auto;
 }
 
 .bio p {
