@@ -15,5 +15,7 @@
         font-size: 1.2rem;
     }
 
-    
+    .projects{
+        max-width: 1040px;
+    }
 }
