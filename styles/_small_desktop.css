@@ -7,4 +7,7 @@
         height: 250px;
     }
 
+    .bio h2{
+        padding-bottom: 1.5rem;
+    }
 }
