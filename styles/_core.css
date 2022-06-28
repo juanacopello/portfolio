@@ -105,6 +105,7 @@ body{
 
 .bio .description a:hover{
     text-decoration:underline;
+    text-decoration-color: #886CE4;
 }
 
 .social_media a{
@@ -165,6 +166,8 @@ footer{
 
 .footer_description .media a:hover{
     text-decoration: underline;
+    text-decoration-color: #886CE4;
+    font-style: 600;
 }
 
 .icons a i{
