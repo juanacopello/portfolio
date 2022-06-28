@@ -2,4 +2,11 @@
     .container {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    /* .footer_description p{
+        font-size: 1.2rem;
+    }
+    .footer_description .media a{
+        font-size: 1rem;
+    } */
 }
